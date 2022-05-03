@@ -2,5 +2,6 @@
 
 Using request and shutil library to get Api from website and save image loacally.
 
-https://user-images.githubusercontent.com/91364481/166425668-c7fd843a-13d7-4f95-ba86-b14639d53530.mp4
 
+
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/91364481/166425960-f9f73dd3-64ec-484a-9fdd-90dfb408ffba.gif)
